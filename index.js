@@ -7,7 +7,7 @@ module.exports = {
   },
   extends: [
     'plugin:prettier/recommended',
-    'prettier/react'
+    'prettier'
   ],
   plugins: [
     'eslint-comments',
